@@ -1,0 +1,10 @@
+{
+  "name": "buscador de poses",
+  "main": "index.html",
+  "window": {
+    "title": "Buscador de Poses",            // タイトルなし
+    "width": 500,           // 幅
+    "height": 610,          // 高さ
+    "transparent": false
+  }
+}

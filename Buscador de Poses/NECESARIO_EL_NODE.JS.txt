@@ -1,0 +1,4 @@
+descargar el nodejs:
+https://nodejs.org/en/
+
+descomprimir y meter estos archivos dentro de la carpeta.
