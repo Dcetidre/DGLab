@@ -1,6 +1,9 @@
 # DGLab
 Repositorio de Herramientas utilizadas en el juego DG
 
+Nota:
+se me olvidó un detalle importante del descargador de motions. Para que el user-agent funcione correctamente hay que abrir la cuenta una vez para que carguen los bonuses que te dan cada dia, porque esa pagina interfiere en la carga de algunas cosas. ¿como hacerlo? en dreamgen entrando a la lista de items, poniendo el server de japon y eligiendo un item cualquiera hasta que salga en el nombre [5pm]
+
 
 AutoScanner: utilizada para escanear los servidores jp y usa del juego para buscar nuevos items, la palabra auto se refiere a que el script se ejecuta y va escaneando todos los items configurados dentro del rango, de todos los tipos de item del juego, util para escaneos desatendidos.
 
