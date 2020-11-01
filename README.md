@@ -1,6 +1,9 @@
 # DGLab
 Repositorio de Herramientas utilizadas en el juego DG
 
+05_poses.txt
+Indice de las poses y el id de los items y recolores a los que pertenecen los modelos del live2d, aun bastante incompleto. 
+
 Nota:
 se me olvidó un detalle importante del descargador de motions. Para que el user-agent funcione correctamente hay que abrir la cuenta una vez para que carguen los bonuses que te dan cada dia, porque esa pagina interfiere en la carga de algunas cosas. ¿como hacerlo? en dreamgen entrando a la lista de items, poniendo el server de japon y eligiendo un item cualquiera hasta que salga en el nombre [5pm]
 
